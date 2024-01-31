@@ -4,8 +4,8 @@ This is a tiny experiment of mine, my first script/program written in Python. I 
 
 *To run it on startup, follow these steps:*
 
-*- create a shorcut of "(...)\Startup Motivational Message\Startup_Motivational_Message.py"*
+*- create a shorcut of "Startup_Motivational_Message.pyw"*
 
-*- start run with "shell:startup"*
+*- write "shell:startup" in your run*
 
-*- copy the shortcut file in that folder*
+*- copy the shortcut file in the newly-opened folder*
